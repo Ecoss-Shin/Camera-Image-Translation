@@ -19,3 +19,9 @@ pip install googletrans==4.0.0-rc1
 
 ## 동작
 
+### 번역할 이미지
+![image1](https://user-images.githubusercontent.com/73572179/127458027-6828653b-27d2-4bde-8d68-9345c53ac05b.jpg)
+
+### 번역된 모습
+
+![image2](https://user-images.githubusercontent.com/73572179/127458069-a1558b33-9618-4eb3-bf8b-6ee2dec0bc73.JPG)
